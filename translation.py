@@ -61,6 +61,3 @@ async def on_message(message):
 
 
 client.run('your token')
-
-
-# Nzg2MDI2ODY2MzM0MzY3Nzk0.GdXguD.kK0mXjGoqm4JaFh6NS7G3Vb8WzW0WcDJhgeZVA
